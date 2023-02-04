@@ -66,3 +66,18 @@ python3 manage.py runserver
   "image": null,
   "group": 1
 }
+
+### Использованные технологии:
+```
+Python 3.9
+Django 2.2.19
+Django REST Framework
+REST API
+OAuth 2.0
+JSON
+Git
+Unittest
+```
+
+### Об авторе:
+Дементьев Александр (с) 2022
